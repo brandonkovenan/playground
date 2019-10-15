@@ -1,0 +1,35 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/calc.js": 0,
+      "multi private-next-pages/index.js": 1,
+      "multi next/dist/pages/_app": 2,
+      "multi next/dist/pages/_error": 3,
+      "multi next/dist/pages/_document": 4
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static\\_zXDxVOmG2on-hJO_pg2k\\pages\\_app.js": 0,
+      "static\\_zXDxVOmG2on-hJO_pg2k\\pages\\_document.js": 1,
+      "static\\_zXDxVOmG2on-hJO_pg2k\\pages\\_error.js": 2,
+      "static\\_zXDxVOmG2on-hJO_pg2k\\pages\\calc.js": 3,
+      "static\\_zXDxVOmG2on-hJO_pg2k\\pages\\index.js": 4
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}
